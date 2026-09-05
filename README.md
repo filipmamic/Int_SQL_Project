@@ -21,13 +21,13 @@ Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 ![Customer Segmentation](/images/1_customer_segmentation.png)
 
 **Key Findings:**
-- High-value segment (25% of customers) drives 66% of total revenue ($135.4M)
-- Mid-value segment (50% of customers) drives 32% of total revenue ($66.6M)
+- High-value segment (25% of customers) drives 66% of total revenue ($135.6M)
+- Mid-value segment (50% of customers) drives 32% of total revenue ($66.4M)
 - Low-value segment (25% of customers) drives 2% of total revenue ($4.3M)
 
 **Business Insights:**
 - **High-Value (66% Revenue):** Offer a premium membership program to 12,372 VIP customers, as losing one customer significantly impacts revenue
-- **Mid-Value (32% Revenue):** Create upgrade paths through personalized promotions with potential $66.6M → $135.4M revenue opportunity
+- **Mid-Value (32% Revenue):** Create upgrade paths through personalized promotions with potential $66.4M → $135.6M revenue opportunity
 - **Low-Value (2% Revenue):** Design re-engagement campaigns and price-sensitive promotions to increase purchase frequency
 
 ### 2. Cohort Analysis
@@ -35,7 +35,7 @@ Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
+Query: [2_cohort_analysis.sql](/images/2_cohort_analysis.png)
 
 **Visualization:**
 ![Cohort Analysis](/images/2_cohort_analysis.png)
